@@ -1,0 +1,5 @@
+class Myclass{
+  void samp(){
+
+  }
+}
